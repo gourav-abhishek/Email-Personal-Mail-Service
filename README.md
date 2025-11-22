@@ -1,4 +1,4 @@
-# Gmail Pro Suite
+# Email Pro
 
 A full-featured, production-ready Gmail-like web application.
 
@@ -26,7 +26,7 @@ A full-featured, production-ready Gmail-like web application.
 - **Settings & Profile:** Customize app theme, language, and personal info.
 - **Responsive Design:** Mobile-friendly with hamburger menu and stacked views.
 - **Animations & UX:** Smooth transitions, toast notifications, polished UI.
-- **Mock Data:** 60+ realistic emails with varied senders, content, timestamps.
+
 
 ---
 
